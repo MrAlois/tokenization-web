@@ -1,0 +1,14 @@
+.bankcard-view {
+  display: block;
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 var(--lumo-space-l);
+}
+.bankcard-view .button-layout {
+  margin-bottom: var(--lumo-space-l);
+  margin-top: var(--lumo-space-m);
+}
+.bankcard-view h3 {
+  margin-bottom: var(--lumo-space-s);
+  margin-top: var(--lumo-space-l);
+}
